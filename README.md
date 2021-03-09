@@ -2,7 +2,7 @@
 <br>
 Pronouns: she/her.
 <br>
-Hobbies: playing geoguessr, fashion history, interior design (a sucker for vintage furnitue), learning new languages, and sewing.
+Hobbies: playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing.
 <br>
 I'm currently working on: deploying my app "Dressing Room" on React Native, playing around with Python/Swift, and creating my portfolio from scratch!
 <br>
