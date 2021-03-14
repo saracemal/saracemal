@@ -15,7 +15,9 @@ I'm currently working on: deploying my app "Dressing Room" on React Native, play
 
 <h3>keep in touch 💌</h3>
   - <a href="https://www.linkedin.com/in/saracemal/">LinkedIn</a>
+  <br>
   - <a href="https://saracemal.medium.com">Medium Blog</a>
+  <br>
   - <a href="mailto:saracemal@gmail.com">Email</a>
 
 
