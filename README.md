@@ -11,8 +11,11 @@ Since my background was heavily shaped by providing efficient and quality servic
 Hobbies: playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing. recently learned about djing and producing music using code! 🤯
 I'm currently working on: deploying my app "Dressing Room" on React Native, playing around with Python/Swift, and creating my portfolio from scratch.
 
+#
 
-
-
+<h3>keep in touch 💌</h3>
+  - <a href="https://www.linkedin.com/in/saracemal/">LinkedIn</a>
+  - <a href="https://saracemal.medium.com">Medium Blog</a>
+  - <a href="mailto:saracemal@gmail.com">Email</a>
 
 
