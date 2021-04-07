@@ -1,7 +1,7 @@
 <h1>hello, I'm Sara! 💫</h1> 
 <h4>🐞 Pronouns: she/her </h4>
 <br>
-I am a recent Full Stack Software Engineer grad from the Flatiron School, specializing in JavaScript and Ruby on Rails! Before this, I was working in customer service for 10 years, with several of those years including management. 
+I am a Full Stack Software Engineer grad from the Flatiron School, specializing in JavaScript, React and Ruby on Rails!
 <br>
 Since my background was heavily shaped by providing efficient and quality service, I'm looking forward to delivering the same experience to future employers and clients. Problem solving and quick critical thinking, whether in a customer facing role or in coding, excite me and are what motivate me to strive for growth in my position. 
 
