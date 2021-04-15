@@ -19,7 +19,7 @@ Since my background was heavily shaped by providing efficient and quality servic
 <h3>keep in touch 💌</h3>
   - <a href="https://www.linkedin.com/in/saracemal/">LinkedIn</a>
   <br>
-  - <a href="https://saracemal.medium.com">Medium Blog</a> * I update my blog every Tuesday! 
+  - <a href="https://saracemal.medium.com">Medium Blog</a> * I update my blog every Wednesday! 
   <br>
   - <a href="mailto:saracemal@gmail.com">Email</a>
 
