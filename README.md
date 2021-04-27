@@ -1,7 +1,7 @@
 <h1>hello, I'm Sara! 💫</h1> 
 <h4>🐞 Pronouns: she/her </h4>
 <br>
-I am a Full Stack Software Engineer grad from the Flatiron School, specializing in React, Javascript, and Ruby on Rails!
+I am a Full Stack Software Engineer from NYC, specializing in React, Javascript, and Ruby on Rails!
 <br>
 Currently learning: Python & TypeScript
 <br>
