@@ -23,4 +23,5 @@ Since my background was heavily shaped by providing efficient and quality servic
   <br>
   - <a href="mailto:saracemal@gmail.com">Email</a>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saracemal&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
