@@ -1,4 +1,4 @@
-<h1>hello, I'm Sara! 💫</h1> 
+<h1>hello, I'm Sara! 💫 I am a Full Stack Software Engineer from NYC.</h1> 
 <h4>🐞 Pronouns: she/her </h4>
 <br>
 I am a Full Stack Software Engineer from NYC, specializing in React, Javascript, and Ruby on Rails!
@@ -10,9 +10,9 @@ Since my background was heavily shaped by providing efficient and quality servic
 #
 
 <h3>fun facts 🌱</h3>
-<b>Hobbies</b>: playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing. recently learned about djing and producing music using code! 🤯
-<br>
 <b>I'm currently working on</b>: deploying my app "Dressing Room" on React Native, playing around with Python/Swift, and creating a new personal project modeled after "Letterboxd" where users can share reviews on albums. 
+<b>Hobbies</b>: playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing. recently learned about djing and producing music using code! 🤯
+
 
 #
 
