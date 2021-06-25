@@ -10,7 +10,7 @@ Since my background was heavily shaped by providing efficient and quality servic
 #
 
 <h3>fun facts 🌱</h3>
-<b>I'm currently working on</b>: deploying my app "Dressing Room" on React Native, playing around with Python/Swift, and creating a new personal project modeled after "Letterboxd" where users can share reviews on albums. 
+<b>I'm currently working on</b>: Creating a new personal project modeled after "Letterboxd" where users can share reviews on albums. (if you have specific requests, let me know! Always looking for new additions to projects).
 <b>Hobbies</b>: playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing. recently learned about djing and producing music using code! 🤯
 
 
