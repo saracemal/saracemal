@@ -3,7 +3,6 @@
 <br>
 I am a Full Stack Software Engineer from NYC, specializing in React, Javascript, and Ruby on Rails!
 <br>
-Currently learning: Python & TypeScript
 <br>
 Since my background was heavily shaped by providing efficient and quality service, I'm looking forward to delivering the same experience to future employers and clients. Problem solving and quick critical thinking, whether in a customer facing role or in coding, excite me and are what motivate me to strive for growth in my position. 
 
