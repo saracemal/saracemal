@@ -7,7 +7,9 @@
   
 # 
   
-<h3>Skills</h3>specializing in React, Javascript, and Ruby on Rails!
+<h3>Skills 🤝</h3>
+<br>
+React, Javascript, and Ruby on Rails!
 <br>
 <br>
 Since my background was heavily shaped by providing efficient and quality service, I'm looking forward to delivering the same experience to future employers and clients. Problem solving and quick critical thinking, whether in a customer facing role or in coding, excite me and are what motivate me to strive for growth in my position. 
