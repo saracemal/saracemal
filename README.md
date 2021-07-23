@@ -8,7 +8,6 @@
 # 
   
 <h3>Skills 🤝</h3>
-<br>
 React, Javascript, and Ruby on Rails!
 <br>
 <br>
