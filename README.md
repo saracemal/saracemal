@@ -18,7 +18,8 @@ Since my background was heavily shaped by providing efficient and quality servic
 <h3>fun facts 🌱</h3>
 <b>I'm currently working on</b>: Creating a new personal project modeled after "Letterboxd" where users can share reviews on albums. (if you have specific requests, let me know! Always looking for new additions to projects).
 <br>
-<b>Hobbies</b>: watching/logging lots of movies (second mention of Letterboxd on my profile) playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing. recently learned about djing and producing music using code! 🤯
+<b>Hobbies</b>: watching/logging lots of movies (second mention of Letterboxd on my profile) playing geoguessr, fashion history, interior design (a sucker for vintage furniture), learning new languages, and sewing.
+
 
 #
 
